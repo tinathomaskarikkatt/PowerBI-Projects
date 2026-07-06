@@ -14,7 +14,7 @@ The dataset spans **2016–2019** and contains information about orders, custome
 
 # 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Sales Analysis Dashboard](Sales Analysis Dashboard.png)
 
 ---
 
